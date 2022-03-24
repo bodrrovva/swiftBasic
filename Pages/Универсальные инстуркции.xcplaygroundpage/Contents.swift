@@ -36,7 +36,7 @@ var b = 0
 //inout позволяет менять значение переменных(сквозная переменная))
 func swappy<T>(a: inout T, b: inout T) {
   let temp = a
-  a =
+  a = b
   b = temp
 }
 
