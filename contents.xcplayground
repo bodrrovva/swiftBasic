@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Горячие клавиши'/>
+        <page name='Базовые операторы'/>
+        <page name='Массивы'/>
+        <page name='Словари'/>
+        <page name='Множества(sets)'/>
+        <page name='Конструкция If'/>
+        <page name='Инструкция Guard'/>
+        <page name='Инструкция swith'/>
+        <page name='Цикл For in'/>
+        <page name='Цикл While(repeat-while)'/>
+        <page name='Функции'/>
+        <page name='Замыкания и клоужеры'/>
+        <page name='Кортежи'/>
+        <page name='Опционалы'/>
+        <page name='Классы'/>
+        <page name='Инициализаторы'/>
+        <page name='Наследование'/>
+        <page name='Вычисляемые свойства(get, set)'/>
+        <page name='Свойства класса'/>
+        <page name='Ленивые свойства'/>
+        <page name='Наблюдатели свойств'/>
+        <page name='Уровни доступа'/>
+        <page name='Псевдоним типа(Typealias)'/>
+        <page name='Перечисления(Энумы)'/>
+        <page name='Структуры'/>
+        <page name='Проверка и приведение типов'/>
+        <page name='Типы Any,  AnyObject'/>
+        <page name='ARC'/>
+        <page name='Опциональные цепочки'/>
+        <page name='Обработка ошибок'/>
+        <page name='Сабскрипты'/>
+        <page name='Расширения'/>
+        <page name='Протоколы'/>
+        <page name='Универсальные инстуркции'/>
+    </pages>
+</playground>
